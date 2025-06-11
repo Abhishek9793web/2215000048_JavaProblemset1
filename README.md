@@ -21,7 +21,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [Practice problem solution](https://drive.google.com/file/d/19Bubd25V4FnW4C_oUX3FhrtVvIl8NPGW/view?usp=sharing)
 
-[Java History ](https://classroom.google.com/u/1/c/NzgxODU0OTYzMzk5/m/NzgxODU0OTYzNDE0/details)
+[Java History ](https://docs.google.com/document/d/1idzdwq_FpDD-npmt4-BEaeupzBHWhtYoRUZheQ8Kifc/edit?tab=t.0)
 
 
 
